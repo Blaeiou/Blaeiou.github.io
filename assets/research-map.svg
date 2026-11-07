@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="420" viewBox="0 0 520 420" fill="none">
   <title>Conceptual map of diet, microbial communities, and biological data</title>
   <desc>An abstract illustration, not experimental data. Microbial forms connect to an ordered network of omics features.</desc>
-  <defs><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#1b5047" opacity=".14"/></pattern></defs>
-  <rect width="520" height="420" fill="#e8eee7"/>
+  <defs><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#a3cbbd" opacity=".14"/></pattern></defs>
+  <rect width="520" height="420" fill="#11161e"/>
   <rect width="520" height="420" fill="url(#grid)"/>
-  <circle cx="250" cy="212" r="154" stroke="#c1cec0"/>
-  <circle cx="250" cy="212" r="123" stroke="#c1cec0" stroke-dasharray="3 7"/>
-  <path d="M92 230C100 138 154 92 227 121C277 140 275 182 318 196C360 210 385 170 417 193C467 229 399 310 329 292C267 276 249 331 173 298C127 278 85 292 92 230Z" fill="#d4e0cf" stroke="#8fa88b"/>
-  <g stroke="#6e8f76" stroke-width="1.2"><path d="m154 154 57 54 42-52 61 53 49-68M211 208l-41 65 96 2 48-66 50 65M266 275l59 53M154 154l-28 67 44 52M363 141l41 94-40 39M253 156l13 119M211 208l153 66"/></g>
-  <g fill="#264f43"><circle cx="154" cy="154" r="7"/><circle cx="211" cy="208" r="12"/><circle cx="253" cy="156" r="5"/><circle cx="314" cy="209" r="9"/><circle cx="363" cy="141" r="4"/><circle cx="126" cy="221" r="5"/><circle cx="170" cy="273" r="9"/><circle cx="266" cy="275" r="6"/><circle cx="364" cy="274" r="7"/><circle cx="404" cy="235" r="4"/><circle cx="325" cy="328" r="4"/></g>
-  <g fill="#bb754c" stroke="#f9f7f0" stroke-width="3"><circle cx="225" cy="113" r="7"/><circle cx="327" cy="158" r="7"/><circle cx="307" cy="280" r="8"/><circle cx="133" cy="291" r="6"/></g>
-  <g stroke="#52765c" stroke-width="2"><rect x="170" y="96" width="29" height="12" rx="6" transform="rotate(30 170 96)" fill="#adc19f"/><rect x="355" y="309" width="34" height="14" rx="7" transform="rotate(-25 355 309)" fill="#adc19f"/><rect x="91" y="174" width="25" height="12" rx="6" transform="rotate(-45 91 174)" fill="#adc19f"/></g>
-  <path d="M57 57h25M57 57v25M463 363h-25M463 363v-25" stroke="#66816b"/>
-  <g font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#44634e"><text x="57" y="39">BIOLOGICAL SYSTEMS</text><text x="294" y="390">CONNECTED BY DATA</text></g>
+  <circle cx="250" cy="212" r="154" stroke="#354150"/>
+  <circle cx="250" cy="212" r="123" stroke="#354150" stroke-dasharray="3 7"/>
+  <path d="M92 230C100 138 154 92 227 121C277 140 275 182 318 196C360 210 385 170 417 193C467 229 399 310 329 292C267 276 249 331 173 298C127 278 85 292 92 230Z" fill="#1c3035" stroke="#6e928a"/>
+  <g stroke="#809891" stroke-width="1.2"><path d="m154 154 57 54 42-52 61 53 49-68M211 208l-41 65 96 2 48-66 50 65M266 275l59 53M154 154l-28 67 44 52M363 141l41 94-40 39M253 156l13 119M211 208l153 66"/></g>
+  <g fill="#a3cbbd"><circle cx="154" cy="154" r="7"/><circle cx="211" cy="208" r="12"/><circle cx="253" cy="156" r="5"/><circle cx="314" cy="209" r="9"/><circle cx="363" cy="141" r="4"/><circle cx="126" cy="221" r="5"/><circle cx="170" cy="273" r="9"/><circle cx="266" cy="275" r="6"/><circle cx="364" cy="274" r="7"/><circle cx="404" cy="235" r="4"/><circle cx="325" cy="328" r="4"/></g>
+  <g fill="#e58b72" stroke="#11161e" stroke-width="3"><circle cx="225" cy="113" r="7"/><circle cx="327" cy="158" r="7"/><circle cx="307" cy="280" r="8"/><circle cx="133" cy="291" r="6"/></g>
+  <g stroke="#aaa6dc" stroke-width="2"><rect x="170" y="96" width="29" height="12" rx="6" transform="rotate(30 170 96)" fill="#37394f"/><rect x="355" y="309" width="34" height="14" rx="7" transform="rotate(-25 355 309)" fill="#37394f"/><rect x="91" y="174" width="25" height="12" rx="6" transform="rotate(-45 91 174)" fill="#37394f"/></g>
+  <path d="M57 57h25M57 57v25M463 363h-25M463 363v-25" stroke="#e7c889"/>
+  <g font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#b4bdca"><text x="57" y="39">BIOLOGICAL SYSTEMS</text><text x="294" y="390">CONNECTED BY DATA</text></g>
 </svg>
