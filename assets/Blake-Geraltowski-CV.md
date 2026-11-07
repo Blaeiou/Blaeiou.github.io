@@ -8,7 +8,7 @@ Interdisciplinary PhD Program in Nutrition · Department of Human Sciences · Th
 
 Geraltowski.1@osu.edu · Columbus, Ohio, USA
 
-[GitHub](https://github.com/Blaeiou) · [LinkedIn](https://www.linkedin.com/in/blaeio/)
+[GitHub](https://github.com/Blaeiou) · [LinkedIn](https://www.linkedin.com/in/blaeiou/) · [ORCID](https://orcid.org/0009-0001-6110-2436) · [Google Scholar](https://scholar.google.com/citations?user=MeYhJkIAAAAJ&hl=en)
 
 Working draft assembled from supplied career documents. Details in square brackets require review. Doctoral study is in progress; a completed PhD or candidacy milestone is not assumed.
 
@@ -108,7 +108,7 @@ Bioengineering an Intestinal Epithelial Monolayer Model to Investigate Naringeni
 
 ## Publications and scholarly outputs
 
-No publication citations were provided in the source materials. [Verified publication citations to add.]
+No publications to date.
 
 ## Teaching and mentorship
 
