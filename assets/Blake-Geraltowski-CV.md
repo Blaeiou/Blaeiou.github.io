@@ -108,7 +108,7 @@ Bioengineering an Intestinal Epithelial Monolayer Model to Investigate Naringeni
 
 ## Publications and scholarly outputs
 
-No publications to date.
+- Kalhori, A., Marris, K., Geraltowski, B., Yang, J., Tukun, A. B., Cole, R., Sparagna, G., & Belury, M. (2026). Venetoclax Cardiotoxicity Alters the Cardiolipin Pool [Published abstract]. Current Developments in Nutrition, 10(Supplement 1), 108174. [doi: 10.1016/j.cdnut.2026.108174](https://doi.org/10.1016/j.cdnut.2026.108174)
 
 ## Teaching and mentorship
 
